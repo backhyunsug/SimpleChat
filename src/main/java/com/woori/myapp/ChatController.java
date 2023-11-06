@@ -5,6 +5,8 @@ import org.springframework.messaging.handler.annotation.SendTo;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 
+
+//여기서 수정사항이 발행해서 수정을 하면
 @Controller
 public class ChatController {
 
